@@ -1,3 +1,9 @@
+The project was created using the Yii 2.0 framework. Layout is done by bootstrap 4. The store is linked to a database. All products are loaded from it. When placing an order, it is also sent to the database. 
+
+
+
+
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
