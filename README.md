@@ -1,3 +1,4 @@
+# Internet-Store
 The project was created using the Yii 2.0 framework. Layout is done by bootstrap 4. The store is linked to a database. All products are loaded from it. When placing an order, it is also sent to the database. 
 
 
